@@ -1,0 +1,23 @@
+{
+  "name": "myreactlearn",
+  "version": "1.0.0",
+  "description": "学习react项目",
+  "main": "index1.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiao-mocn/myReactlearn.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiao-mocn/myReactlearn/issues"
+  },
+  "homepage": "https://github.com/xiao-mocn/myReactlearn#readme",
+  "dependencies": {
+    "vite": "2"
+  }
+}
